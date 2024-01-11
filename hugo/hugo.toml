@@ -12,5 +12,5 @@ address = "Auckland, New Zealand"
 firstName = "Danielle"
 lastName = "Gatland"
 showContact = false
-sections = ["projects"]
+sections = ["projects", "presentations"]
 profileImage = "images/DG_urban.jpg"
