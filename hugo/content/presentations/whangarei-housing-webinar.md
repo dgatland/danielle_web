@@ -26,9 +26,9 @@ In this webinar, Hamish Sykes (from Whangārei District Council) and I talk abou
 * What was required of the model
 * Scoping and designing the online model framework
 * An overview of what the model looks like and how it works
-* How Council has used the tool 
+* How Council used the tool 
 
 You can read more about it and try a demo version of the model from 
 [mrcagney.works](https://mrcagney.works/whangarei-housing-assessment.html).
 
-{{< youtube id="s6T0hSqsLus" t="80" width="400px" >}}
+{{< youtube id="s6T0hSqsLus" t="80" width="400px" title="Online Housing Capacity Model Webinar">}}
