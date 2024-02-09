@@ -1,0 +1,9 @@
+{{ define "main" }}
+<section class="resume-section p-3 p-lg-5 d-flex d-column" id="{{ replace .Title " " "-" }}">
+  <div class="my-auto">
+    <h1 class="mb-3"><span class="text-primary">{{ .Title }}</span></h1>
+    <hr style="border"></hr>
+    {{ .Content }}
+  </div>
+</section>
+{{ end }}
