@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://dgatland.github.io/'
 languageCode = 'en-nz'
 title = 'Danielle Gatland'
 theme = 'hugo-resume'

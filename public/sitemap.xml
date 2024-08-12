@@ -6,12 +6,12 @@
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>http://localhost:1313/presentations/nzpi-2021/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/presentations/nzpi-2022/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/presentations/whangarei-housing-webinar/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/presentations/foss4g-2019/</loc>
@@ -22,12 +22,12 @@
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>http://localhost:1313/projects/data-collection-apps/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/projects/gradient-isochrones/</loc>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>http://localhost:1313/projects/gradient-isochrones/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/projects/data-collection-apps/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/projects/whangarei-housing-model/</loc>
@@ -35,23 +35,29 @@
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/projects/project-management-dashboard/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/projects/nz-arrivals/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/geospatial/</loc>
+    <loc>http://localhost:1313/tags/3d-modelling/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/planning/</loc>
+    <loc>http://localhost:1313/tags/blender/</loc>
+    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/research-and-development/</loc>
@@ -60,23 +66,32 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/presentations/</loc>
+    <loc>http://localhost:1313/tags/geospatial/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/presentation/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/presentations/</loc>
+    <lastmod>2023-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data-science/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/planning/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/arcgis/</loc>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data-visualisation/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/qgis/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dashboard/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>
