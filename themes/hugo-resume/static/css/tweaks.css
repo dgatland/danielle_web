@@ -48,7 +48,7 @@ div.skills-heading{
 /* From https://codepen.io/wbeeftink/pen/dIaDH */
 
 .tags {
-    font: 12px/1.5 'PT Sans', serif;
+    font: 12px/1.5 'Open Sans', serif;
   list-style: none;
   margin: 0;
   overflow: hidden;
@@ -62,11 +62,11 @@ div.skills-heading{
 .tag {
   background: #eee;
   border-radius: 3px 0 0 3px;
-  color: #999;
+  color: #343A40BF;
   display: inline-block;
   height: 26px;
   line-height: 26px;
-  padding: 0 20px 0 23px;
+  padding: 0 20px 0 10px;
   position: relative;
   margin: 0 10px 10px 0;
   text-decoration: none;
