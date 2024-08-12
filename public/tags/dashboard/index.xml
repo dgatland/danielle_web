@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dashboard on Danielle Gatland</title>
+    <link>http://localhost:1313/tags/dashboard/</link>
+    <description>Recent content in Dashboard on Danielle Gatland</description>
+    <generator>Hugo</generator>
+    <language>en-nz</language>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Management Dashboard</title>
+      <link>http://localhost:1313/projects/project-management-dashboard/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project-management-dashboard/</guid>
+      <description>MRCagney Reports, an internal project management web app, began as a personal project of mine to improve on other project management platforms I had seen and/or trialled. After developing an initial prototype for drilling into timesheet data to support project management, I shared my concept with my colleagues at MRCagney.&#xA;Following some refinement and collaboration, one of my colleagues and I developed the tool further, ultimately creating a key tool for all project managers at MRCagney.</description>
+    </item>
+    <item>
+      <title>NZ Arrivals (and the Impacts of COVID-19)</title>
+      <link>http://localhost:1313/projects/nz-arrivals/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/nz-arrivals/</guid>
+      <description>This was a personal interest project I created during one of Auckland&amp;rsquo;s COVID-19 lockdowns. As New Zealand&amp;rsquo;s borders went through various levels of restrictions on international travel to New Zealand, I was curious to see how the international arrivals compared to previous years. Rather than simply creating some charts at the time, I thought the the trend of international arrivals as the world &amp;lsquo;returned to normal&amp;rsquo; would be interesting, and therefore an interactive and updatable dashboard would be the best solution.</description>
+    </item>
+  </channel>
+</rss>

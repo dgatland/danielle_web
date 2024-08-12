@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D Modelling on Danielle Gatland</title>
+    <link>http://localhost:1313/tags/3d-modelling/</link>
+    <description>Recent content in 3D Modelling on Danielle Gatland</description>
+    <generator>Hugo</generator>
+    <language>en-nz</language>
+    <lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/3d-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Modelling Forests to Create Synthetic Training Data for Machine Learning</title>
+      <link>http://localhost:1313/projects/3d-modelling-forest/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/3d-modelling-forest/</guid>
+      <description>As part of a research and development project at Carbon Critical, I built a 3D modelled landscape in Blender for creating simulated renders of pine plantations. Initially, I simulated a single pine plantation from which we could render images from different positions and angles. I then extended this model using Blender&amp;rsquo;s Python integration to be able to simulate variations to:&#xA;The age of the pine plantation, including both the size of trees and &amp;ldquo;tree thinning&amp;rdquo; over time.</description>
+    </item>
+  </channel>
+</rss>

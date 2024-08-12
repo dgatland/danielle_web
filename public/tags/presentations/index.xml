@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on Danielle Gatland</title>
+    <link>http://localhost:1313/tags/presentations/</link>
+    <description>Recent content in Presentations on Danielle Gatland</description>
+    <generator>Hugo</generator>
+    <language>en-nz</language>
+    <lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whangārei Online Housing Capacity Modelling</title>
+      <link>http://localhost:1313/presentations/whangarei-housing-webinar/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/presentations/whangarei-housing-webinar/</guid>
+      <description>This webinar is about a project I led while working at MRCagney. I led the development of an online housing capacity model for Whangārei. The model computes the plan-enabled and commercially feasible housing capacity of the urban environment of Whangārei. It was developed to help the Council meet the statutory requirements of the National Policy Statement on Urban Development (2020).&#xA;My role was to implement the data cleaning and processing pipeline to join geospatial and numerical datasets from a variety of local council, national government, and private datasets to inform the relevant planning regulations for properties across the District.</description>
+    </item>
+  </channel>
+</rss>

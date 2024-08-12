@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research and Development on Danielle Gatland</title>
+    <link>http://localhost:1313/tags/research-and-development/</link>
+    <description>Recent content in Research and Development on Danielle Gatland</description>
+    <generator>Hugo</generator>
+    <language>en-nz</language>
+    <lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/research-and-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Modelling Forests to Create Synthetic Training Data for Machine Learning</title>
+      <link>http://localhost:1313/projects/3d-modelling-forest/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/3d-modelling-forest/</guid>
+      <description>As part of a research and development project at Carbon Critical, I built a 3D modelled landscape in Blender for creating simulated renders of pine plantations. Initially, I simulated a single pine plantation from which we could render images from different positions and angles. I then extended this model using Blender&amp;rsquo;s Python integration to be able to simulate variations to:&#xA;The age of the pine plantation, including both the size of trees and &amp;ldquo;tree thinning&amp;rdquo; over time.</description>
+    </item>
+    <item>
+      <title>Mapping Realistic Travel Time Catchments for Public Transport</title>
+      <link>http://localhost:1313/projects/gradient-isochrones/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/gradient-isochrones/</guid>
+      <description>In my public tranport planning work at MRCagney, I was often asked how we could better communicate the impacts of frequency and time of day on travel time catchments. A travel time catchment (an &amp;ldquo;isochrone&amp;rdquo;) is a map where an area is coloured to show what places are accessible within a travel time limit from a given origin.&#xA;Traditionally, a single isochrone map would be produced for a given journey start time, e.</description>
+    </item>
+    <item>
+      <title>Building Data Collection Apps</title>
+      <link>http://localhost:1313/projects/data-collection-apps/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/data-collection-apps/</guid>
+      <description>In my work at MRCagney, we would occassionally undergo spatial data collection activities. This wasn&amp;rsquo;t part of our core work and would happen only a few times per year. We had never found the opportunity to invest the time to develop an app-based approach for data collection activities (and were instead still using pen and paper!). I used the opportunity of an upcoming project along with some free time to investigate the options for app-based spatial data collection.</description>
+    </item>
+  </channel>
+</rss>

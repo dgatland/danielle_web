@@ -1,0 +1,17 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-nz'
+title = 'Danielle Gatland'
+theme = 'hugo-resume'
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Analysing, Visualising and Communicating Data"
+firstName = "Danielle"
+lastName = "Gatland"
+email = ""
+showContact = false
+sections = ["projects", "presentations"]
+profileImage = "images/DG_urban.jpg"

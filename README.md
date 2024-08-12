@@ -8,3 +8,10 @@ Installation
 Run
 ====
 `hugo server --noHTTPCache`
+
+Release History
+================
+
+0.1.0
+------
+- Initial release
